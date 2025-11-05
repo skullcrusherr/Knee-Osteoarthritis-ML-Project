@@ -1,0 +1,14 @@
+artifact_uri: file:C:\Users\iksha\Downloads\Knee\Finalcode\mlruns/800603115198414777/b8b5418e248946b9900e326d6644a1d6/artifacts
+end_time: 1761407670499
+entry_point_name: ''
+experiment_id: '800603115198414777'
+lifecycle_stage: active
+run_id: b8b5418e248946b9900e326d6644a1d6
+run_name: tasteful-shrimp-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761407505054
+status: 3
+tags: []
+user_id: iksha

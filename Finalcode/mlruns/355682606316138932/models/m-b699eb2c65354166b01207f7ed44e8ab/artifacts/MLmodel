@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/iksha/Downloads/Knee/Finalcode/mlruns/355682606316138932/models/m-b699eb2c65354166b01207f7ed44e8ab/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.3
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.5.0
+model_id: m-b699eb2c65354166b01207f7ed44e8ab
+model_size_bytes: 100929656
+model_uuid: m-b699eb2c65354166b01207f7ed44e8ab
+prompts: null
+run_id: 34dee03977c049d490214207903b6b0a
+utc_time_created: '2025-10-20 13:21:47.996765'

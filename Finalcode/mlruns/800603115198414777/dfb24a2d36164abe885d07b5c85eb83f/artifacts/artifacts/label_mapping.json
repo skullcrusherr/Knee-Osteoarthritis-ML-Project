@@ -1,0 +1,10 @@
+{
+  "merge_to_three": true,
+  "five_to_three": {
+    "0": "Healthy",
+    "1": "Healthy",
+    "2": "Mild",
+    "3": "Severe",
+    "4": "Severe"
+  }
+}

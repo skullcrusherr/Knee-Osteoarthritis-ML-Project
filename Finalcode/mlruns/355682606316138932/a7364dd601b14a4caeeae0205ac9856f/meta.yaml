@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/iksha/Downloads/Knee/Finalcode/mlruns/355682606316138932/a7364dd601b14a4caeeae0205ac9856f/artifacts
+end_time: 1760965288512
+entry_point_name: ''
+experiment_id: '355682606316138932'
+lifecycle_stage: active
+run_id: a7364dd601b14a4caeeae0205ac9856f
+run_name: nimble-goose-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760965024114
+status: 4
+tags: []
+user_id: iksha

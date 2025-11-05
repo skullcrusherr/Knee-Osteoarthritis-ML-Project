@@ -1,0 +1,53 @@
+# Core ML stack (Python 3.12 support starts at TF 2.16)
+tensorflow>=2.16.1
+tensorflow-io-gcs-filesystem>=0.36.0
+
+# Vision + plotting
+opencv-python>=4.9.0
+matplotlib>=3.8.0
+pillow>=10.2.0
+
+# Metrics & math
+scikit-learn>=1.4.0
+numpy>=1.26.4
+
+# Core ML / Deep Learning
+tensorflow==2.17.0
+keras==3.4.1
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+scipy>=1.11.0
+
+# Image Processing
+opencv-python>=4.10.0
+Pillow>=10.0.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Web App / Dashboard
+streamlit>=1.37.0
+protobuf>=4.25.0
+altair>=5.0.0
+
+# Explainability / Visualization
+grad-cam==1.4.8         # Optional: for Grad-CAM (if you use it directly)
+tf-keras-vis>=0.8.5      # Optional: for Integrated Gradients / Saliency
+plotly>=5.24.0
+
+# Text / Chatbot (local retrieval)
+nltk>=3.9
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+tqdm>=4.66.0
+
+# Reporting & Docs
+markdown2>=2.5.0
+rich>=13.9.0
+
+# Optional utilities for experimentation
+mlflow>=2.14.0
+joblib>=1.4.0
+
+# Visualization helper for reports
+tabulate>=0.9.0

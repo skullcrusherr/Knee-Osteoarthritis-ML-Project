@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/iksha/Downloads/Knee/Finalcode/mlruns/355682606316138932/models/m-b699eb2c65354166b01207f7ed44e8ab/artifacts
+creation_timestamp: 1760966507972
+experiment_id: '355682606316138932'
+last_updated_timestamp: 1760966518971
+model_id: m-b699eb2c65354166b01207f7ed44e8ab
+model_type: null
+name: model
+source_run_id: 34dee03977c049d490214207903b6b0a
+status: 2
+status_message: null
